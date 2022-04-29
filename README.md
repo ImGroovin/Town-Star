@@ -30,7 +30,8 @@ NOTE: An item that is destroyed does not get included in the calculations.
 
 __Instructions__
 * For each item that you wish to track, set the "item" value with the trackedItems variable. Leave the other values set to zero.
-* Load the script in your browser. This can be done via a browser plugin such as Tampermonkey, or by directly pasting the code into your browser's console.
+* Load the script in your browser. This can be done by directly pasting the code into your browser's console.
+NOTE: This script is NOT designed as a Tampermonkey script, though it could be adapted to run in Tampermonkey.
 
 ### Enhanced Leaderboard
 This script adds functionality to the in-game Leaderboard.
