@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Monitor production rate of specified craft items.
 // @author       Groove
-// @match        https://townstar.sandbox-games.com/launch/
+// @match        *://*.sandbox-games.com/launch*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
