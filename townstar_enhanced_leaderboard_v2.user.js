@@ -4,7 +4,7 @@
 // @version      2
 // @description  Click a row on the Leaderboard to jump directly to that town on the map.
 // @author       Groove
-// @match        https://townstar.sandbox-games.com/launch/
+// @match        *://*.sandbox-games.com/launch*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
